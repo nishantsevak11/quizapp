@@ -52,7 +52,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-6 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} QuizFlow. All rights reserved.
+            &copy; {new Date().getFullYear()} QuizApp. All rights reserved.
           </p>
           
           <div className="flex space-x-6">
